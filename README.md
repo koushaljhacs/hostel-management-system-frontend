@@ -1,6 +1,16 @@
+
 # 🏥 Hospital Management System - Frontend
 
+<p align="center">
+  <a href="https://koushaljhacs.github.io/hostel-management-system-frontend/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-Visit%20Website-blue?style=for-the-badge&logo=github" alt="Live Preview">
+  </a>
+</p>
+
+> For a GUI-based view of the project, please visit the live website. Thank you!
+
 **Version:** 8.0.0 | **Total Files:** 699 | **Deadline:** 2026-04-12
+
 
 > Complete frontend blueprint for Hospital Management System with 16 user roles. Every file is synchronized with backend API and database schema. No deviations allowed.
 
